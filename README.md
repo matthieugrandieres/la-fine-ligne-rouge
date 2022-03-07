@@ -3,8 +3,7 @@
 💼 La Fine Ligne Rouge est une société de conseil et de formation en RSE au service de projets centrés sur les interactions humaines.
 
 Ma mission durant ce projet a été de proposer au client une maquette graphique, l'intégrer et développer les fonctionnalités demandées. 
-
-_Technologies :
+**Technologies :**
 - Draw.IO
 - HTML/CSS
 - Bootstrap
