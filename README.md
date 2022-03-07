@@ -4,6 +4,8 @@
 
 Ma mission durant ce projet a été de proposer au client une maquette graphique, l'intégrer et développer les fonctionnalités demandées. 
 
+👥 Equipe : Seul
+
 **Technologies :**
 - Draw.IO
 - HTML/CSS
