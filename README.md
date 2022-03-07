@@ -4,7 +4,7 @@
 
 Ma mission durant ce projet a été de proposer au client une maquette graphique, l'intégrer et développer les fonctionnalités demandées. 
 
-__Technologies :__
+_Technologies :
 - Draw.IO
 - HTML/CSS
 - Bootstrap
